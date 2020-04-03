@@ -1,0 +1,9 @@
+.acnhtdc-class input{
+  width:3em;
+  border-radius:3px;
+  border:1px solid #cccccc;
+}
+
+html * {
+    font-family:Arial;
+}
